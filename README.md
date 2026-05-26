@@ -185,4 +185,5 @@ Additional note:
 ### Patient Details Dashboard
 ![Patient Details Dashboard](screenshots/patient-details-dashboard.png)
 
-
+### Data Model Relationship
+![Data Model Relationship](screenshots/data-model-relationships.png)
